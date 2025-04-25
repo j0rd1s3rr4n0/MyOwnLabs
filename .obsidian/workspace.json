@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "281711399e888452",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b7c833638c8321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede48a0c57b5263d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The 6 Hidden Flags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abd85d3c7518853a",
+    "type": "split",
+    "children": [
+      {
+        "id": "281e77149a65e98a",
+        "type": "tabs",
+        "dimension": 63.42780026990553,
+        "children": [
+          {
+            "id": "5d87f69a82e09efc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9a920891d90d0e19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "fee5b0ccf45426ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "961d49bc0bcb52e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5fcdf7cec3d4a52",
+        "type": "tabs",
+        "dimension": 36.57219973009447,
+        "children": [
+          {
+            "id": "de7d988b05529c74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 538.5110321044922
+  },
+  "right": {
+    "id": "19d4dd0258790248",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4f34578a093f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f61b6fbd084ad07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MakingOf/HackerManLand.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de HackerManLand"
+            }
+          },
+          {
+            "id": "f33f12491c1271db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MakingOf/HackerManLand.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de HackerManLand"
+            }
+          },
+          {
+            "id": "b977cb200f452568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8bd615f610f407e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MakingOf/HackerManLand.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de HackerManLand"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ede48a0c57b5263d",
+  "lastOpenFiles": [
+    "WriteUp/Challenges/TramuntHackCTF/INSTRUCTIONS.md",
+    "WriteUp/TramuntHackCTF.md",
+    "WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+    "WriteUp/Machines",
+    "WriteUp/Machines/VulnWeb/VulnWeb.md",
+    "WriteUp",
+    "HackerManLand/HackerManLand.md",
+    "Images/Pasted image 20250126010134.png",
+    "Images/Pasted image 20250126004355.png",
+    "Images/Pasted image 20241212224800.png",
+    "Images/Pasted image 20241212221554.png",
+    "Images/Pasted image 20241212221027.png",
+    "Images/Pasted image 20241212220745.png",
+    "MakingOf/HackerManLand.md",
+    "Ink/Drawing/2025.2.22 - 19.10pm.drawing",
+    "Test.md",
+    "Ink/Drawing",
+    "Ink",
+    "Sin título.canvas",
+    "Images/Pasted image 20241212201758.png",
+    "Images/Pasted image 20241212201634.png",
+    "Images/Pasted image 20241212195854.png",
+    "Images/Pasted image 20241117232107.png",
+    "WriteUp/Challenges/Forensics",
+    "WriteUp/Challenges/Reversing",
+    "WriteUp/Challenges",
+    "pentestmonkey.md",
+    "VulnWeb/Sin título.md",
+    "MakingOf",
+    "Images",
+    "Bienvenido.md"
+  ]
+}
