@@ -71,7 +71,7 @@ Nos plantean 3 retos de REVESING donde tenemos que hacer uso o extraer la contra
 ## Machines
 Son dos máquinas y/o Infraestructuras a las que tendremos que auditar, conseguir acceso a ellas y conseguir dos objetivos o flags situadas en los archivos ***user.txt*** y ***root.txt***. Dispondremos de 3 pistas o Hints que no restaran puntos al resolver la máquina pero si que se recomienda no usarlas para una experiencia más real de auditoria y para una competición limpia.
 - [[VulnWeb]]
-- [[HackerManLand/HackerManLand]]
+- [[TramuntHackCTF/HackerManLand/HackerManLand]]
 *Ejemplo:*
 ![[Pasted image 20250126012422.png]]
 ## Hidden Optional Flags

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+                "file": "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,22 +193,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ede48a0c57b5263d",
+  "active": "5d87f69a82e09efc",
   "lastOpenFiles": [
-    "WriteUp/Challenges/TramuntHackCTF/INSTRUCTIONS.md",
-    "WriteUp/TramuntHackCTF.md",
-    "WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
-    "WriteUp/Machines",
-    "WriteUp/Machines/VulnWeb/VulnWeb.md",
-    "WriteUp",
-    "HackerManLand/HackerManLand.md",
+    "TramuntHackCTF",
+    "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/INSTRUCTIONS.md",
+    "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+    "TramuntHackCTF/WriteUp/TramuntHackCTF.md",
+    "TramuntHackCTF/WriteUp/Machines",
+    "TramuntHackCTF/WriteUp/Machines/VulnWeb/VulnWeb.md",
+    "TramuntHackCTF/WriteUp",
+    "TramuntHackCTF/HackerManLand/HackerManLand.md",
     "Images/Pasted image 20250126010134.png",
     "Images/Pasted image 20250126004355.png",
     "Images/Pasted image 20241212224800.png",
     "Images/Pasted image 20241212221554.png",
     "Images/Pasted image 20241212221027.png",
     "Images/Pasted image 20241212220745.png",
-    "MakingOf/HackerManLand.md",
+    "TramuntHackCTF/MakingOf/HackerManLand.md",
     "Ink/Drawing/2025.2.22 - 19.10pm.drawing",
     "Test.md",
     "Ink/Drawing",
@@ -218,12 +219,12 @@
     "Images/Pasted image 20241212201634.png",
     "Images/Pasted image 20241212195854.png",
     "Images/Pasted image 20241117232107.png",
-    "WriteUp/Challenges/Forensics",
-    "WriteUp/Challenges/Reversing",
-    "WriteUp/Challenges",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics",
+    "TramuntHackCTF/WriteUp/Challenges/Reversing",
+    "TramuntHackCTF/WriteUp/Challenges",
     "pentestmonkey.md",
     "VulnWeb/Sin título.md",
-    "MakingOf",
+    "TramuntHackCTF/MakingOf",
     "Images",
     "Bienvenido.md"
   ]
