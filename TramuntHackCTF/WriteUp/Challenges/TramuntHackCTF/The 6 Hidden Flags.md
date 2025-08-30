@@ -635,23 +635,3 @@ La mandamos al formulario y... `Flag submitted successfully! Points: 100`, hemos
 > - 6/6 `js/joker.js var flag`
 > - **Flags Restantes: ** 0 - Completed!
 
-
-<html>
-<body>
-<h1>Califica el Reto</h1>
-<form action="http://127.0.0.1:5000" method="post">
-  <label for="browser">Choose your browser from the list:</label>
-  <input list="browsers" name="browser" id="browser">
-  <datalist id="browsers">
-    <option value="Muy Facil">
-    <option value="Facil">
-    <option value="Medio">
-    <option value="Dificil">
-    <option value="Muy dificil">
-  </datalist>
-  <input type="submit">
-</form>
-</body>
-</html>
-
-

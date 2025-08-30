@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40b7c833638c8321",
+        "id": "4ea6a794a0df997e",
         "type": "tabs",
         "children": [
           {
-            "id": "ede48a0c57b5263d",
+            "id": "c279b5c1c7c7d7bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+                "file": "TramuntHackCTF/WriteUp/Challenges/Reversing/Reversing Case 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The 6 Hidden Flags"
+              "title": "Reversing Case 1"
             }
           }
         ]
@@ -193,39 +193,42 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d87f69a82e09efc",
+  "active": "c279b5c1c7c7d7bd",
   "lastOpenFiles": [
-    "TramuntHackCTF",
+    "JuliaNet.md",
+    "Test.md",
+    "README.md",
+    "TramuntHackCTF/WriteUp/Challenges/Reversing/Reversing Case 1.md",
     "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/INSTRUCTIONS.md",
     "TramuntHackCTF/WriteUp/Challenges/TramuntHackCTF/The 6 Hidden Flags.md",
+    "TramuntHackCTF/The 6 Hidden Flags.pdf",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/Forensic Case 1 - Caso GEO.md",
+    "TramuntHackCTF/Forensic Case 1 - Caso GEO.pdf",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517095500.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517095243.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517095023.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517092957.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517093830.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517093740.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517085313.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517093758.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517093747.png",
+    "TramuntHackCTF/WriteUp/Challenges/Forensics/IMAGES/Pasted image 20250517093732.png",
     "TramuntHackCTF/WriteUp/TramuntHackCTF.md",
-    "TramuntHackCTF/WriteUp/Machines",
     "TramuntHackCTF/WriteUp/Machines/VulnWeb/VulnWeb.md",
+    "TramuntHackCTF",
+    "TramuntHackCTF/WriteUp/Machines",
     "TramuntHackCTF/WriteUp",
     "TramuntHackCTF/HackerManLand/HackerManLand.md",
-    "Images/Pasted image 20250126010134.png",
-    "Images/Pasted image 20250126004355.png",
-    "Images/Pasted image 20241212224800.png",
-    "Images/Pasted image 20241212221554.png",
-    "Images/Pasted image 20241212221027.png",
-    "Images/Pasted image 20241212220745.png",
     "TramuntHackCTF/MakingOf/HackerManLand.md",
     "Ink/Drawing/2025.2.22 - 19.10pm.drawing",
-    "Test.md",
     "Ink/Drawing",
     "Ink",
     "Sin título.canvas",
-    "Images/Pasted image 20241212201758.png",
-    "Images/Pasted image 20241212201634.png",
-    "Images/Pasted image 20241212195854.png",
-    "Images/Pasted image 20241117232107.png",
     "TramuntHackCTF/WriteUp/Challenges/Forensics",
-    "TramuntHackCTF/WriteUp/Challenges/Reversing",
-    "TramuntHackCTF/WriteUp/Challenges",
     "pentestmonkey.md",
     "VulnWeb/Sin título.md",
-    "TramuntHackCTF/MakingOf",
-    "Images",
     "Bienvenido.md"
   ]
 }
